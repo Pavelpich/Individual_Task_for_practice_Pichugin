@@ -1,0 +1,2 @@
+# Individual_Task_for_practice_Pichugin
+Производственная практика Пичугин
